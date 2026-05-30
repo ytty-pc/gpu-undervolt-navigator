@@ -37,7 +37,7 @@ NVIDIA RTX 40/50（Ada / Blackwell）、AMD RX 7000（RDNA3）、AMD RX 9000（R
 ### オンライン（GitHub Pages）
 
 ```
-https://<your-username>.github.io/gpu-undervolt-navigator/
+https://ytty-pc.github.io/gpu-undervolt-navigator/
 ```
 
 ### ローカル
